@@ -1,0 +1,7 @@
+### IntelliJ IDEA ###
+.idea
+
+# Maven
+*.iml
+.idea_modules/
+target/
